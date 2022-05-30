@@ -1,0 +1,13 @@
+Адрес сайта:
+https://xymetrics.org/?cmp_bypass=5850c833d91a546efdf40c48323e3f14
+
+Проверка работы кнопки "GET YOUR WELLNESS ADVISORY". Негативный тест.
+
+1. Находясь на сайте наверти курсор на кнопку "GET YOUR WELLNESS ADVISORY", нажать click.
+2. На новой странице найти надпись "Have you ever took a DNA test?".
+3. Нажать по кнопке "NO".
+4. На новой странице найти надпись:"In order to get wellness products you have to be genotypes. Please procceed to DNA provider (give a list of them here) an take DNA test.
+ Meanwhile, you may register with us to receive the latest DNA related news.
+ 5. Найти на странице кнопку "back", нажать click.
+ 6. После нажатия на кнопку должны возвратиться на страницу с надписьмю "Have you ever took a DNA test?"
+ 7. Если все шаги пройдены, ТЕСТ ПРОШЁЛ.

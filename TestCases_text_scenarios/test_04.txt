@@ -1,0 +1,14 @@
+Адрес сайта:
+https://xymetrics.org/?cmp_bypass=5850c833d91a546efdf40c48323e3f14
+
+Проверка на валидный емаил.
+
+1. Находясь на странице сайта найти курсором мышки надпись Contact, нажать click.
+2. После перехода по ссылке проверить адрес сайта: "https://xymetrics.org/contact-us/"
+3. В поле Your name ввести имя.
+4. В поле Your email ввести "myemail2022gmail.com".
+5. В поле Subject ввести тему.
+6. В поле Your message (optional) ввести сообщение 5000 знаков.
+7. Нажать кнопку Submit.
+8. Сравнить сообщение, которое появляется после отправки формы с "The e-mail address entered is invalid." (и/или сообщение "One or more fields have an error. Please check and try again.")
+9. Если всё совпадает, ТЕСТ ПРОШЁЛ.

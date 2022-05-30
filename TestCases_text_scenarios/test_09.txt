@@ -1,0 +1,10 @@
+Адрес сайта:
+https://xymetrics.org/?cmp_bypass=5850c833d91a546efdf40c48323e3f14
+
+1. Находясь на сайте наверти курсор на кнопку "GET YOUR WELLNESS ADVISORY", нажать click.
+2. Из выпадающего списка выбрать "Nutrition/Healthy Weight".
+3. На новой странице найти иконку с class-name = "ui-icon-line-share", нажать click.
+4. Появится панель с соц.сетями, выбрать иконку Pinterest с title="Pinterest", нажать click.
+5. Откроется сайт с адресом "https://www.pinterest.com/pin/create/bookmarklet/?media=https%3A%2F%2Fxymetrics.org%2Fwp-content%2Fuploads%2F2022%2F04%2Fnutrition_box_1-800x800-1.jpg&url=https%3A%2F%2Fxymetrics.org%2Fshop%2Fnutrition-healthy-weight%2Fnutrition-and-healthy-weight-advisory%2F&is_video=false&description=Nutrition+and+Healthy+Weight+Advisory".
+6. На сайте найти надпись Pinterest по тегу <h1>.
+7. Если все шаги выполнены, ТЕСТ ПРОШЕЛ.

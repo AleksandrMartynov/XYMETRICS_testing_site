@@ -1,0 +1,5 @@
+selenium
+webdriver_manager
+
+# Путь к webdriver
+# C:\\Users\\Aleksandr\\.wdm\\drivers\\chromedriver\\win32\\102.0.5005.61\\chromedriver.exe

@@ -1,0 +1,7 @@
+Адрес сайта:
+https://xymetrics.org/?cmp_bypass=5850c833d91a546efdf40c48323e3f14
+
+1. Находясь на сайте наверти курсор на кнопку "GET YOUR WELLNESS ADVISORY", нажать click.
+2. Из выпадающего списка выбрать "Nutrition/Healthy Weight".
+3. На новой странице найти кнопку "LEARN MORE", нажать click.
+4. Если переход на другую страницу происходит, ТЕСТ ПРОШЕЛ.

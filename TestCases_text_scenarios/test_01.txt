@@ -1,0 +1,38 @@
+Адрес сайта:
+https://xymetrics.org/?cmp_bypass=5850c833d91a546efdf40c48323e3f14
+
+Проверка работы ссылок через выпадающий список на главной странице.
+
+1. Найти выпадающий список "All Wellness Products".
+2. Навести курсор мышки на список, выбрать "Nutrition and Healthy Weight Advisory", нажать click.
+3. Выбрать
+4. Проверить адрес сайта после перехода по ссылке: "https://xymetrics.org/product-category/nutrition-healthy-weight/"
+5. Нажать кнопку Back для возврата на основную страницу.
+6. Навести курсор мышки на список, выбрать "Nutrition and Healthy Weight Advisory", нажать click.
+7. Выбрать категорию Allergies / Sensitivities, и нажать click.
+8. Проверить адрес сайта после перехода по ссылке: "https://xymetrics.org/product-category/allergies-sensitivities/"
+9. Нажать кнопку Back для возврата на основную страницу.
+10. Навести курсор мышки на список, выбрать "Nutrition and Healthy Weight Advisory", нажать click.
+11. Выбрать категорию Oils and Aromatherapy, и нажать click.
+12. Проверить адрес сайта после перехода по ссылке: "https://xymetrics.org/product-category/oils-and-aromatherapy/"
+13. Нажать кнопку Back для возврата на основную страницу.
+14. Навести курсор мышки на список, выбрать "Nutrition and Healthy Weight Advisory", нажать click.
+15. Выбрать категорию Genetic Disorders Risks Advisory, и нажать click.
+16. Проверить адрес сайта после перехода по ссылке: "https://xymetrics.org/product-category/genetic-disorders-risks/"
+17. Нажать кнопку Back для возврата на основную страницу.
+18. Навести курсор мышки на список, выбрать "Nutrition and Healthy Weight Advisory", нажать click.
+19. Выбрать категорию Genetics Cardiovascular Advisory, и нажать click.
+20. Проверить адрес сайта после перехода по ссылке: "https://xymetrics.org/product-category/genetic-cardio-risks/"
+21. Нажать кнопку Back для возврата на основную страницу.
+22. Навести курсор мышки на список, выбрать "Nutrition and Healthy Weight Advisory", нажать click.
+23. Выбрать категорию Fitness and Athletics, и нажать click.
+24. Проверить адрес сайта после перехода по ссылке: "https://xymetrics.org/product-category/fitness-and-athletics/"
+21. Нажать кнопку Back для возврата на основную страницу.
+22. Навести курсор мышки на список, выбрать "Nutrition and Healthy Weight Advisory", нажать click.
+23. Выбрать категорию Personal Development, и нажать click.
+24. Проверить адрес сайта после перехода по ссылке: "https://xymetrics.org/product-category/personal-development/"
+21. Нажать кнопку Back для возврата на основную страницу.
+22. Навести курсор мышки на список, выбрать "Nutrition and Healthy Weight Advisory", нажать click.
+23. Выбрать категорию Beauty and Skincare, и нажать click.
+24. Проверить адрес сайта после перехода по ссылке: "https://xymetrics.org/product-category/beauty-and-skincare/"
+25. Сравнить все ссылки приведенные в тесте с полученными. Если всё совпадает - ТЕСТ ПРОЙДЕН.

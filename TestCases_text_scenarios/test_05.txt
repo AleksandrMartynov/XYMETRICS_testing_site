@@ -1,0 +1,12 @@
+Адрес сайта:
+https://xymetrics.org/?cmp_bypass=5850c833d91a546efdf40c48323e3f14
+
+Проверка работы кнопки "GET YOUR WELLNESS ADVISORY". Позитивный тест.
+
+1. Находясь на сайте наверти курсор на кнопку "GET YOUR WELLNESS ADVISORY", нажать click.
+2. На новой странице найти надпись "Have you ever took a DNA test?".
+3. Нажать по кнопке "YES".
+4. На новой странице найти надпись "Go to your DNA test provider and check if your DNA test is ready. Is DNA test ready?".
+5. Нажать по кнопке "YES".
+6. На новой странице найти надпись "Use your DNA test provider instructions and upload raw DNA file."
+7. Если все условия выполняют, ТЕСТ ПРОШЁЛ.
