@@ -56,7 +56,7 @@ response_message: WebElement = driver.find_element(By.CLASS_NAME, 'wpcf7-respons
 WebDriverWait(driver, 5).until(visibility_of(response_message))
 response_text = response_message.text
 if response_text == abc:
-        print("ТЕСТ №02 прошёл успешно. Сообщение отправилось")
+        print("ТЕСТ №02 прошёл успешно. Сообщение отправилось.")
 else:
     print("Тест №02 Не прошел. Сообщение НЕ отправилось.")
 
