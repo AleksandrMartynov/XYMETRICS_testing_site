@@ -8,3 +8,5 @@ driver.get('https:/google.com')
 driver.get('https:/amazon.com')
 
 driver.close()
+
+
